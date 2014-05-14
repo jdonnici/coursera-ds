@@ -1,4 +1,4 @@
 coursera-ds
 ===========
 
-Misc files from the Coursera DS series
+Misc data files, scripts, and notes from the Data Science series
